@@ -14,11 +14,11 @@ Main Menu
 
 In Game
 
-![In Game screenshot](./Screenshots/In Game.png)
+![In Game screenshot](./Screenshots/In%20Game.png)
 
 Time's Up Screen
 
-![Time's Up Screen](./Screenshots/Times Up.png)
+![Time's Up Screen](./Screenshots/Times%20Up.png)
 
 ## License
 
